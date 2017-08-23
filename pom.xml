@@ -5,7 +5,7 @@
     <artifactId>paddock</artifactId>
     <name>${project.groupId}:${project.artifactId}</name>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <description>A library to document REST APIs</description>
     <url>https://github.com/optionfactory/paddock</url>
     <licenses>
